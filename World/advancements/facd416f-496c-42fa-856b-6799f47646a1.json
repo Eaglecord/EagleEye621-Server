@@ -1,0 +1,211 @@
+{
+  "vanillaplus:villagertools": {
+    "criteria": {
+      "Main": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:anti_enderman_grief": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2021-05-09 14:05:27 +0200"
+    },
+    "done": true
+  },
+  "dropper_to_dispenser:recipes/building_blocks/dropper_to_dispenser/dispenser_alternate": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:double_shulker_shells": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "vanillaplus:root": {
+    "criteria": {
+      "Main": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:real_clock": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/golden_carrot": {
+    "criteria": {
+      "has_gold_nugget": "2021-05-09 14:05:47 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:player_head_drops": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:wandering_trades": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2021-05-09 14:05:27 +0200"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2021-05-09 14:05:28 +0200"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:cold_ocean": "2021-05-09 14:13:29 +0200",
+      "minecraft:forest": "2021-05-09 14:09:47 +0200",
+      "minecraft:mountains": "2021-05-09 14:09:41 +0200",
+      "minecraft:mushroom_fields": "2021-05-09 14:01:25 +0200",
+      "minecraft:deep_cold_ocean": "2021-05-09 14:21:31 +0200",
+      "minecraft:birch_forest": "2021-05-09 14:20:39 +0200",
+      "minecraft:beach": "2021-05-09 14:13:26 +0200",
+      "minecraft:river": "2021-05-09 14:13:28 +0200",
+      "minecraft:wooded_mountains": "2021-05-09 14:12:08 +0200",
+      "minecraft:wooded_hills": "2021-05-09 14:18:31 +0200",
+      "minecraft:plains": "2021-05-09 14:19:16 +0200"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "armor_statues:enable": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_nuggets": {
+    "criteria": {
+      "has_gold_nugget": "2021-05-09 14:05:47 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_hoe": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:coordinates_hud": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_stick": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:armor_statues": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:silence_mobs": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:more_mob_heads": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:nether_portal_coords": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "vanillatweaks:dragon_drops": {
+    "criteria": {
+      "tick": "2021-05-09 14:01:25 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_hoe": "2021-05-09 14:02:08 +0200"
+    },
+    "done": true
+  },
+  "DataVersion": 2586
+}

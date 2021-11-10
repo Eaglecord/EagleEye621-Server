@@ -1,0 +1,19 @@
+[
+  {
+    "ID": "0f572a39-a2fe-42f9-8cd0-0dae76e740a4",
+    "PosxXzZY": [
+      146,
+      174,
+      -211,
+      -177,
+      0
+    ],
+    "GlobalPerms": [
+      "ENCHANTMENT",
+      "ENDERCHEST",
+      "PICKUP",
+      "PORTAL",
+      "DROP"
+    ]
+  }
+]

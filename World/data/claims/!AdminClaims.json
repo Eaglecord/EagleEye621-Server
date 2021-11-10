@@ -1,0 +1,42 @@
+[
+  {
+    "ID": "a4e2344a-021b-4779-9da8-9c3a918e6d9f",
+    "PosxXzZY": [
+      -272,
+      95,
+      48,
+      415,
+      0
+    ],
+    "GlobalPerms": [
+      "BED",
+      "ENCHANTMENT",
+      "ANIMALSPAWN",
+      "FENCEGATE",
+      "MOBSPAWN",
+      "OPENCONTAINER",
+      "ENDERCHEST",
+      "PICKUP",
+      "PORTAL",
+      "DROP",
+      "BOAT"
+    ]
+  },
+  {
+    "ID": "cd4571a4-5cfa-4b41-9a8b-bebc20973089",
+    "PosxXzZY": [
+      -2469,
+      -2451,
+      -310,
+      -287,
+      0
+    ],
+    "GlobalPerms": [
+      "ENCHANTMENT",
+      "ENDERCHEST",
+      "PICKUP",
+      "PORTAL",
+      "DROP"
+    ]
+  }
+]
